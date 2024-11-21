@@ -1,4 +1,6 @@
-# "Optimizing Regression Models: Feature Selection and Validation"
+# Sales forecasting
+
+"Optimizing Regression Models: Feature Selection and Validation"
 
 This project focuses on the preprocessing, feature selection, and validation of regression models to enhance predictive accuracy. Key steps and methodologies include:
 
